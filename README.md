@@ -30,9 +30,8 @@ Aspiring DevOps Engineer building real infrastructure in a home lab and learning
 
 ## 🏠 Home Lab
 
-Running a self-hosted infrastructure lab on Proxmox (Ryzen 7 5700X, 32GB RAM, GPU passthrough) as a hands-on learning environment:
+Running a self-hosted infrastructure lab on Proxmox as a hands-on learning environment:
 
-- Network segmented into isolated VLANs (management / servers / trusted) with a zone-based firewall
 - Containerized services managed with Docker and Kubernetes
 - Self-hosted DNS, NAS storage, and a self-hosted LLM agent (Hermes Agent) for local AI-assisted sysadmin work
 - Monitoring/logging stack (Prometheus, Grafana, Loki)
