@@ -23,7 +23,7 @@ Aspiring DevOps Engineer building real infrastructure in a home lab and learning
 ## 🌱 Currently learning / building
 
 - **Kubernetes & Docker** — containerizing and orchestrating apps, hands-on with k3d/k3s, Deployments, Services, Ingress, ConfigMaps/Secrets, and persistent storage
-- **Networking** — VLAN segmentation, zone-based firewalls, DNS, and remote access (Tailscale, moving toward self-hosted Headscale)
+- **Networking** — VLAN segmentation, zone-based firewalls, DNS, and remote access (Tailscale and self-hosted Headscale)
 - **SQL** — joins, subqueries, aggregation, and relational database design
 - **Linux systems administration** — process management, scripting, and firewalls (nftables), working through the *UNIX and Linux System Administration Handbook*
 - **Next up:** Ansible, AWS, Terraform/OpenTofu, and CI/CD pipelines
