@@ -1,6 +1,6 @@
 # Hi, I'm Cole Suk 👋
 
-Aspiring DevOps Engineer building real infrastructure in a home lab and learning in public.
+Aspiring DevOps Engineer building real infrastructure in a home lab.
 
 ## 🛠️ What I work with
 
